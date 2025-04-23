@@ -1,5 +1,5 @@
 ## Hi there 🖐️
-Hello, I am googoocon, a high school student.</br>
+Hello, I am <strong>googoocon</strong>, a high school student.</br>
 I like aws, study more aws.<br><br>
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 ## Awards 🏆
